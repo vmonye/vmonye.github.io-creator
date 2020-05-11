@@ -1,0 +1,4 @@
+baseURL = "vmonye.github.io"
+languageCode = "zh-Hans"
+title = "VMON的博客"
+theme = "ananke"
